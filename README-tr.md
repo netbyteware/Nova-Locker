@@ -34,7 +34,7 @@ Python paketleyicilerinin (PyInstaller, cx_Freeze vb.) çalışma prensibi, tüm
 ### 🛡️ Şeffaflık ve Güven Raporu
 Yazılımımız içerisinde hiçbir zararlı kod, reklam aracı veya veri izleyici bulunmamaktadır. Kullanıcılarımızın içine sinebilmesi adına projenin güncel tarama sonuçlarını aşağıdaki linkten şeffaf bir şekilde inceleyebilirsiniz:
 
-🔗 **[Güncel VirusTotal Tarama Sonuçlarını Görmek İçin Tıklayın](BURAYA_VIRUSTOTAL_LINKINI_YAPISTIR)**
+🔗 **[Güncel VirusTotal Tarama Sonuçlarını Görmek İçin Tıklayın](https://www.virustotal.com/gui/file/b3cc399f4a65ea66d703d30c7812cf1d63bd9d34a53199d2cb49846f6459729e/detection)**
 
 ---
 
